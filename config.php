@@ -1,4 +1,5 @@
 <?php
+// echo "askdf";
 return [
     'database' => [
         'host' => 'localhost',
